@@ -2,7 +2,7 @@ body {
   background-color: #000000;
   color: #ff79c6;
   min-height: 97vh;
-  font-family: Comfortaa;
+  font-family: 'Comfortaa', cursive;
 }
 
 center {
@@ -10,7 +10,7 @@ center {
 }
 
 p {
-  font-family: 'Comfortaa'; 
+  font-family: 'Comfortaa', cursive;
   font-weight: bold; 
   color: #fca306;
 }
