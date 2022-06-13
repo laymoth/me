@@ -1,4 +1,3 @@
-[submodule "yaylib"]
+[submodule "laymoth"]
 	path = laymoth
 	url = https://github.com/laymoth/yaylib.git
-	branch = main
